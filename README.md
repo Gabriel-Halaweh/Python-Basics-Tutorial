@@ -22,4 +22,4 @@ There are two Google Colab tutorials. Each notebook pairs a plain-language expla
 Our project needed teammates to ramp up on Python quickly, so I wrote these tutorials to take someone from zero experience to comfortable with core and intermediate concepts. Every section includes a working example and its real output, so learners can test their own understanding against the result before moving on.
 
 # How to use them
-Both notebooks are built for Google Colab — click Open in Colab at the top of each file to run the code live in your browser, no setup required.
+Both notebooks are built for Google Colab. Click `Open in Colab` at the top of each file to run the code live in your browser, no setup required.
